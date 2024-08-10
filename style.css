@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+main img p{
+    font-size: 5px;
+}
+
+
+li:hover{
+    cursor: pointer;
+    color: coral;
+}
