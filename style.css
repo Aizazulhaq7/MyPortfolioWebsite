@@ -185,7 +185,20 @@ nav h3{
     color: #fff;
   }
   
-  .pricing-button.is-featured:hover,
-  .pricing-button.is-featured:active {
-    
-  }
+ @media (width<=420)  {
+    .text-fluid{
+        text-align: center;
+        
+    }
+
+ .imgwidth{
+        margin-right: 40px;
+    } 
+
+ .my-name{
+    margin-left: 20px;
+    }
+ }
+
+
+ 
