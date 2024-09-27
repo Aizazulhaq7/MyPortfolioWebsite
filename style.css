@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 *{
     margin: 0;
     padding: 0;
@@ -37,8 +28,8 @@ nav h3{
 
 
 .navbar.scrolled {
-    background-color: beige !important; /* New background color */
-    color: black !important; /* Change text color to match */
+    background-color: beige !important; 
+    color: black !important; 
 }
 
 
@@ -54,10 +45,6 @@ nav h3{
   
   .background::after {
     content: '';
-    /* background: #60a9ff;
-    background: -moz-linear-gradient(top, #60a9ff 0%, #4394f4 100%);
-    background: -webkit-linear-gradient(top, #60a9ff 0%,#4394f4 100%);
-    background: linear-gradient(to bottom, #60a9ff 0%,#4394f4 100%); */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60a9ff', endColorstr='#4394f4',GradientType=0 );
     height: 350px;
     left: 0;
